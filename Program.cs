@@ -6,6 +6,10 @@
         //DataTypes();
         //ShowNumericTypes();
         //ShowStringTypes();
-        ShowSalesReport();
+        //ShowSalesReport();
+        //SalaryCalculator();
+        //ShowTime();
+        //DaysOfLive();
+        DaysUntilNextYear();
     }
 }
