@@ -10,6 +10,11 @@
         //SalaryCalculator();
         //ShowTime();
         //DaysOfLive();
-        DaysUntilNextYear();
+        //DaysUntilNextYear();
+        //HandleNullable();
+        //Operators();
+        //Arrays();
+        //InventoryManager();
+        ListDiccionary();
     }
 }
